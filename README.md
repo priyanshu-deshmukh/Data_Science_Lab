@@ -11,4 +11,12 @@ This repository is a collection of data science experiments, notes, and code sam
 - **Python Scripts:** Supplementary code utilities and analyses in Python.
 - **Miscellaneous Notes:** Documentation and notes related to data science concepts explored in the lab.
 
+### R Dependencies
+
+All R packages used in this repository are listed in `r_requirements.txt`. You can install them using:
+
+```r
+install.packages(readLines("r_requirements.txt"))
+```
+
 Browse the repository for specific notebooks and scripts to see example analyses and experiments.
